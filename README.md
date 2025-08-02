@@ -1,96 +1,44 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="2332" height="4000" alt="Landing" src="https://github.com/user-attachments/assets/512f17e0-8a44-4aab-896a-115081f952b6" /><img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Capsules 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
-
-
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+### Team Name: Shamil Roshan N
 
 ### Project Description
-[2-3 lines about what your project does]
+This is a medicine management system designed to help users efficiently track and organize medications used for human diseases. It provides a structured and collaborative environment where individuals can store and manage their medicinal records while allowing controlled access to trusted members.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The lack of structured and collaborative environment for store and manage their medicinal records.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Web application
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- MERN Stack
+- Redux, Redis, Nodemailer, Formik, GSAP and cloudinary
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+npm install ( on both client and server )
 
 # Run
-[commands]
-
-### Project Documentation
-For Software:
+npm run dev ( on both client and server )
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+Landing page - https://res.cloudinary.com/dle6cdwdb/image/upload/v1754099320/Landing_uifilj.png
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Profile - https://res.cloudinary.com/dle6cdwdb/image/upload/v1754099446/Capsules_profile_page_-_design_2_1_ipms2h.png
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Creating a space to add data - https://res.cloudinary.com/dle6cdwdb/image/upload/v1754099686/Capsules_create_new_Home_1_obyuze.png
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
